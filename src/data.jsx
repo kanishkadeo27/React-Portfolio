@@ -163,6 +163,30 @@ export const resume = [
     title: "Web Designer&Developer <span> Oasis Infobyte </span>",
     desc: "Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt",
   },
+  {
+    id: 3,
+    category: "education",
+    icon: <FaGraduationCap />,
+    year: "Aug'2020 - April'2024",
+    title: "BTECH CSE-AI <span> Parul University , Vadodara Gujarat </span>",
+    desc: "Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt",
+  },
+  {
+    id: 4,
+    category: "education",
+    icon: <FaGraduationCap />,
+    year: "April'2019 - March'2020",
+    title: "HSC <span> Shri Guru Tegh Bahadur Academy , Ratlam MP </span>",
+    desc: "Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt",
+  },
+  {
+    id: 5,
+    category: "education",
+    icon: <FaGraduationCap />,
+    year: "April'2017 - March'2018",
+    title: "SSC <span> Shri Guru Tegh Bahadur Academy , Ratlam MP </span>",
+    desc: "Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt",
+  },
 ];
 
 export const skills = [
