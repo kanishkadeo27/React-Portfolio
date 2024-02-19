@@ -4,6 +4,7 @@ import Stats from "../../components/Stats";
 import { FaDownload } from "react-icons/fa";
 import CV from "../../assets/Kani_cv.pdf";
 import "./about.css";
+import Skills from "../../components/Skills";
 const About = () => {
   return (
     <main className="section container">
@@ -32,6 +33,13 @@ const About = () => {
           </div>
         </div>
       </section>
+      <div className="separator"></div>
+      <div className="skills">
+        <h3 className="section__subtitle subtitle__center">My Skills</h3>
+        <div className="skills__container grid">
+          <Skills />
+        </div>
+      </div>
       <div className="separator"></div>
     </main>
   );
